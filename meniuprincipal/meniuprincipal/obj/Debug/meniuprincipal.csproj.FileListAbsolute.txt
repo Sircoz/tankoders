@@ -1,0 +1,16 @@
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.csprojResolveAssemblyReference.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\App.g.cs
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal_Content.g.cs
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal_MarkupCompile.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal_MarkupCompile.lref
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\bin\Debug\meniuprincipal.exe.config
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\bin\Debug\meniuprincipal.exe
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\bin\Debug\meniuprincipal.pdb
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.g.resources
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.Properties.Resources.resources
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.exe
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\meniuprincipal.pdb
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\Window2.g.cs
+C:\Users\Radu\Desktop\work\c#\tankoder\meniuprincipal\meniuprincipal\meniuprincipal\obj\Debug\Window2.baml
