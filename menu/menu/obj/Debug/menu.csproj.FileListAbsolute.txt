@@ -1,0 +1,16 @@
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\bin\Debug\menu.exe.config
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\bin\Debug\menu.exe
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\bin\Debug\menu.pdb
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\MainWindow.g.cs
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\App.g.cs
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu_MarkupCompile.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu_MarkupCompile.lref
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\MainWindow.baml
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.g.resources
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.exe
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu.pdb
+C:\Users\Radu\Desktop\work\c#\tankoder\menu\menu\obj\Debug\menu_Content.g.cs
